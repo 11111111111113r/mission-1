@@ -39,3 +39,4 @@ function initiateEscapeSequence(): void
     }
 }
 initiateEscapeSequence();
+// 1
